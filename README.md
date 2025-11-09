@@ -1,7 +1,10 @@
----
+
 ## Autor: [Guilherme Guimarães](https://github.com/GuiLhermeoliveiraf/)
-**[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GuiLhermeoliveiraf/)**  
-**[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeoliiveira/)**
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GuiLhermeoliveiraf/)  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeoliiveira/)
+
 ---
 
 # ITIL (Information Technology Infrastructure Library)
@@ -148,8 +151,6 @@ Essas práticas tratam de aspectos mais **tecnológicos** da entrega de serviço
 | **32. Desenvolvimento e Gerenciamento de Software (Software Development and Management)** | Planeja, projeta, desenvolve e mantém aplicações de software de forma ágil e eficiente. |
 | **33. Gerenciamento de Implantação (Deployment Management)** | Garante que componentes novos ou atualizados sejam entregues em produção com segurança. _Observação: em algumas traduções, esta se junta à prática de liberação._ |
 | **34. Gestão de Infraestrutura e Plataforma (Infrastructure and Platform Management)** | Administra servidores, redes, bancos de dados e plataformas que sustentam os serviços de TI. |
-
-> **Nota:** Algumas organizações tratam **Release Management** e **Deployment Management** de forma conjunta; por isso, você pode encontrar sobreposição entre as listas de **Serviços** e **Técnicas**.
 
 ---
 
